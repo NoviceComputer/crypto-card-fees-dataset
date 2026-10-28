@@ -1,0 +1,403 @@
+{
+  "name": "RedotPay country restriction lists compared (snapshot 2026-10-22)",
+  "description": "The four country lists in RedotPay's help center (account verification, card issuance, physical delivery, app access) merged into one table. A country not listed is not confirmed as supported.",
+  "publisher": "CryptoCard Insider (https://cryptocardinsider.com/)",
+  "license": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) - credit CryptoCard Insider and keep the snapshot date",
+  "dateRead": "2026-10-22",
+  "page": "https://cryptocardinsider.com/content/guide-redotpay-available-countries-20261022",
+  "notes": [
+    "Read from RedotPay help center articles on 2026-10-22; the lists can change and this file is a snapshot, not live data.",
+    "A country absent from all four lists is not confirmed as supported by this dataset or by RedotPay; only the app can confirm availability.",
+    "Names follow the wording of the help center articles (for example Mainland China, Netherlands Antilles)."
+  ],
+  "sources": {
+    "account": {
+      "title": "Unsupported Countries/Regions",
+      "url": "https://helpcenter.redotpay.com/en/articles/10339263-unsupported-countries-regions",
+      "articleDate": "2026-08-28",
+      "scope": "Citizens cannot complete identity verification or use RedotPay services",
+      "count": 41
+    },
+    "issuance": {
+      "title": "Card Issuance Restrictions",
+      "url": "https://helpcenter.redotpay.com/en/articles/14254838-card-issuance-restrictions",
+      "articleDate": "2026-08-28",
+      "scope": "Residents cannot get virtual or physical cards; the place cannot be a billing address",
+      "count": 47
+    },
+    "delivery": {
+      "title": "Card Delivery Restrictions",
+      "url": "https://helpcenter.redotpay.com/en/articles/14255319-card-delivery-restrictions",
+      "articleDate": "2026-07-21",
+      "scope": "Physical cards cannot be shipped there",
+      "count": 47
+    },
+    "access": {
+      "title": "Location-Based Access Restrictions",
+      "url": "https://helpcenter.redotpay.com/en/articles/14252906-location-based-access-restrictions",
+      "articleDate": "2026-08-28",
+      "scope": "Services unavailable; people located there cannot access the app",
+      "count": 38
+    }
+  },
+  "countryCount": 51,
+  "countries": [
+    {
+      "name": "Afghanistan",
+      "account": true,
+      "issuance": true,
+      "delivery": true,
+      "access": true
+    },
+    {
+      "name": "Albania",
+      "account": true,
+      "issuance": true,
+      "delivery": true,
+      "access": false
+    },
+    {
+      "name": "Belarus",
+      "account": true,
+      "issuance": true,
+      "delivery": true,
+      "access": true
+    },
+    {
+      "name": "Bosnia and Herzegovina",
+      "account": true,
+      "issuance": true,
+      "delivery": true,
+      "access": true
+    },
+    {
+      "name": "Bouvet Island",
+      "account": true,
+      "issuance": true,
+      "delivery": true,
+      "access": false
+    },
+    {
+      "name": "Burkina Faso",
+      "account": true,
+      "issuance": true,
+      "delivery": true,
+      "access": true
+    },
+    {
+      "name": "Burundi",
+      "account": true,
+      "issuance": true,
+      "delivery": true,
+      "access": true
+    },
+    {
+      "name": "Central African Republic",
+      "account": true,
+      "issuance": true,
+      "delivery": true,
+      "access": true
+    },
+    {
+      "name": "Congo (Democratic Republic of the)",
+      "account": true,
+      "issuance": true,
+      "delivery": true,
+      "access": true
+    },
+    {
+      "name": "Croatia",
+      "account": true,
+      "issuance": true,
+      "delivery": true,
+      "access": true
+    },
+    {
+      "name": "Cuba",
+      "account": true,
+      "issuance": true,
+      "delivery": true,
+      "access": true
+    },
+    {
+      "name": "Egypt",
+      "account": false,
+      "issuance": false,
+      "delivery": true,
+      "access": false
+    },
+    {
+      "name": "Eritrea",
+      "account": true,
+      "issuance": true,
+      "delivery": true,
+      "access": true
+    },
+    {
+      "name": "Ethiopia",
+      "account": true,
+      "issuance": true,
+      "delivery": true,
+      "access": true
+    },
+    {
+      "name": "Guinea-Bissau",
+      "account": true,
+      "issuance": true,
+      "delivery": true,
+      "access": true
+    },
+    {
+      "name": "Haiti",
+      "account": true,
+      "issuance": true,
+      "delivery": true,
+      "access": true
+    },
+    {
+      "name": "India",
+      "account": false,
+      "issuance": true,
+      "delivery": true,
+      "access": false
+    },
+    {
+      "name": "Indonesia",
+      "account": false,
+      "issuance": true,
+      "delivery": true,
+      "access": false
+    },
+    {
+      "name": "Iran",
+      "account": true,
+      "issuance": true,
+      "delivery": true,
+      "access": true
+    },
+    {
+      "name": "Iraq",
+      "account": true,
+      "issuance": true,
+      "delivery": true,
+      "access": true
+    },
+    {
+      "name": "Kosovo",
+      "account": true,
+      "issuance": true,
+      "delivery": true,
+      "access": false
+    },
+    {
+      "name": "Lebanon",
+      "account": true,
+      "issuance": true,
+      "delivery": true,
+      "access": true
+    },
+    {
+      "name": "Liberia",
+      "account": true,
+      "issuance": true,
+      "delivery": true,
+      "access": true
+    },
+    {
+      "name": "Libya",
+      "account": true,
+      "issuance": true,
+      "delivery": true,
+      "access": true
+    },
+    {
+      "name": "Mainland China",
+      "account": true,
+      "issuance": true,
+      "delivery": true,
+      "access": true
+    },
+    {
+      "name": "Mali",
+      "account": true,
+      "issuance": true,
+      "delivery": true,
+      "access": true
+    },
+    {
+      "name": "Montenegro",
+      "account": true,
+      "issuance": true,
+      "delivery": true,
+      "access": true
+    },
+    {
+      "name": "Morocco",
+      "account": false,
+      "issuance": true,
+      "delivery": true,
+      "access": false
+    },
+    {
+      "name": "Myanmar",
+      "account": true,
+      "issuance": true,
+      "delivery": true,
+      "access": true
+    },
+    {
+      "name": "Nepal",
+      "account": false,
+      "issuance": true,
+      "delivery": true,
+      "access": false
+    },
+    {
+      "name": "Netherlands Antilles",
+      "account": true,
+      "issuance": true,
+      "delivery": true,
+      "access": false
+    },
+    {
+      "name": "Nicaragua",
+      "account": true,
+      "issuance": true,
+      "delivery": true,
+      "access": true
+    },
+    {
+      "name": "North Korea",
+      "account": true,
+      "issuance": true,
+      "delivery": true,
+      "access": true
+    },
+    {
+      "name": "North Macedonia",
+      "account": true,
+      "issuance": true,
+      "delivery": false,
+      "access": true
+    },
+    {
+      "name": "Palestine",
+      "account": false,
+      "issuance": false,
+      "delivery": true,
+      "access": false
+    },
+    {
+      "name": "Russia",
+      "account": true,
+      "issuance": true,
+      "delivery": true,
+      "access": true
+    },
+    {
+      "name": "Serbia",
+      "account": true,
+      "issuance": true,
+      "delivery": true,
+      "access": true
+    },
+    {
+      "name": "Singapore",
+      "account": false,
+      "issuance": true,
+      "delivery": false,
+      "access": false
+    },
+    {
+      "name": "Slovenia",
+      "account": true,
+      "issuance": true,
+      "delivery": true,
+      "access": true
+    },
+    {
+      "name": "Somalia",
+      "account": true,
+      "issuance": true,
+      "delivery": true,
+      "access": true
+    },
+    {
+      "name": "South Sudan",
+      "account": true,
+      "issuance": true,
+      "delivery": true,
+      "access": true
+    },
+    {
+      "name": "Sudan",
+      "account": true,
+      "issuance": true,
+      "delivery": true,
+      "access": true
+    },
+    {
+      "name": "Syria",
+      "account": true,
+      "issuance": true,
+      "delivery": true,
+      "access": true
+    },
+    {
+      "name": "Tanzania",
+      "account": false,
+      "issuance": false,
+      "delivery": false,
+      "access": true
+    },
+    {
+      "name": "Tunisia",
+      "account": false,
+      "issuance": false,
+      "delivery": true,
+      "access": false
+    },
+    {
+      "name": "Turkey",
+      "account": false,
+      "issuance": true,
+      "delivery": true,
+      "access": false
+    },
+    {
+      "name": "Ukraine",
+      "account": true,
+      "issuance": true,
+      "delivery": true,
+      "access": true
+    },
+    {
+      "name": "United States",
+      "account": true,
+      "issuance": true,
+      "delivery": true,
+      "access": true
+    },
+    {
+      "name": "Venezuela",
+      "account": true,
+      "issuance": true,
+      "delivery": true,
+      "access": true
+    },
+    {
+      "name": "Yemen",
+      "account": true,
+      "issuance": true,
+      "delivery": true,
+      "access": true
+    },
+    {
+      "name": "Zimbabwe",
+      "account": true,
+      "issuance": true,
+      "delivery": false,
+      "access": true
+    }
+  ]
+}

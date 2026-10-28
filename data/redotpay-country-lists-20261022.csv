@@ -1,0 +1,52 @@
+country,listed_unsupported_for_verification,listed_card_issuance_restricted,listed_card_delivery_restricted,listed_app_access_restricted
+Afghanistan,true,true,true,true
+Albania,true,true,true,false
+Belarus,true,true,true,true
+Bosnia and Herzegovina,true,true,true,true
+Bouvet Island,true,true,true,false
+Burkina Faso,true,true,true,true
+Burundi,true,true,true,true
+Central African Republic,true,true,true,true
+Congo (Democratic Republic of the),true,true,true,true
+Croatia,true,true,true,true
+Cuba,true,true,true,true
+Egypt,false,false,true,false
+Eritrea,true,true,true,true
+Ethiopia,true,true,true,true
+Guinea-Bissau,true,true,true,true
+Haiti,true,true,true,true
+India,false,true,true,false
+Indonesia,false,true,true,false
+Iran,true,true,true,true
+Iraq,true,true,true,true
+Kosovo,true,true,true,false
+Lebanon,true,true,true,true
+Liberia,true,true,true,true
+Libya,true,true,true,true
+Mainland China,true,true,true,true
+Mali,true,true,true,true
+Montenegro,true,true,true,true
+Morocco,false,true,true,false
+Myanmar,true,true,true,true
+Nepal,false,true,true,false
+Netherlands Antilles,true,true,true,false
+Nicaragua,true,true,true,true
+North Korea,true,true,true,true
+North Macedonia,true,true,false,true
+Palestine,false,false,true,false
+Russia,true,true,true,true
+Serbia,true,true,true,true
+Singapore,false,true,false,false
+Slovenia,true,true,true,true
+Somalia,true,true,true,true
+South Sudan,true,true,true,true
+Sudan,true,true,true,true
+Syria,true,true,true,true
+Tanzania,false,false,false,true
+Tunisia,false,false,true,false
+Turkey,false,true,true,false
+Ukraine,true,true,true,true
+United States,true,true,true,true
+Venezuela,true,true,true,true
+Yemen,true,true,true,true
+Zimbabwe,true,true,false,true
