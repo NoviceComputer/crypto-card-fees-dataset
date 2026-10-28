@@ -1,5 +1,7 @@
 # Crypto card fees and RedotPay country lists (open data)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23722747.svg)](https://doi.org/10.5281/zenodo.23722747)
+
 Two small datasets maintained by [CryptoCard Insider](https://cryptocardinsider.com), an independent comparison site for crypto debit cards. Each value comes from the issuer's own help center or product page, and every record carries the date it was last checked.
 
 Both datasets are snapshots, not live feeds. Card fees and country lists change, and the issuer's app or checkout is always the final word.
@@ -43,6 +45,8 @@ RedotPay's help center publishes four separate lists, and they don't match each 
 There's an interactive country checker built on the same data here: [Where RedotPay works](https://cryptocardinsider.com/content/guide-redotpay-available-countries-20261022).
 
 ## How to cite
+
+Archived on Zenodo with a DOI: [10.5281/zenodo.23722747](https://doi.org/10.5281/zenodo.23722747) (always resolves to the latest version).
 
 > CryptoCard Insider, "Crypto card fees 2026-Q3", https://cryptocardinsider.com/facts/crypto-card-fees-2026-q3 (snapshot 2026-10-27), CC BY 4.0.
 
